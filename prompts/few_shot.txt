@@ -1,0 +1,31 @@
+EXEMPLOS
+
+Tarefa: Identificar falácias lógicas em textos argumentativos.
+
+A seguir estão alguns exemplos de como identificar falácias lógicas em textos,
+bem como o formato EXATO de saída que deve ser usado.
+
+{exemplos_formatados}
+Agora analise o próximo texto.
+
+Instruções gerais:
+Dado o texto abaixo, identifique quais das seguintes falácias estão presentes nele:
+- Ad Hominem
+- Ladeira Escorregadia
+- Generalização Apressada
+- Falso Dilema
+- Apelo à Emoção
+- Espantalho
+
+IMPORTANTE:
+- Use APENAS esses nomes de falácias, exatamente como escritos acima.
+- Se não tiver certeza, use apenas as falácias que mais se encaixam.
+- Produza a resposta em UMA ÚNICA LINHA, no seguinte formato:
+
+Agora, analise o seguinte texto:
+
+Texto:
+\"\"\"{texto}\"\"\"
+
+Resposta:
+"""

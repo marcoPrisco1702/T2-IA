@@ -1,0 +1,24 @@
+Tarefa: Identificar falácias lógicas em textos argumentativos.
+
+Instruções:
+Dado o texto abaixo, identifique quais as seguintes falácias estão presentes nele:
+- Ad Hominem
+- Ladeira Escorregadia
+- Generalização Apressada
+- Falso Dilema
+- Apelo à Emoção
+- Espantalho
+
+Indique em uma linha de texto de no máximo 120 palavras a resposta que deve conter:
+- As falácias (nomes).
+- Indique em qual/quais trechos do texto argumentativo as falácias aparecem.
+- Dê uma breve explicação do por que aquele trecho representa essa falácia.
+
+Texto:
+\"\"\"{texto}\"\"\"
+
+Resposta: 
+(Pense passo a passo para identificar, classificar e explicar as falácias presentes no texto acima.)
+(Mostre APENAS a resposta final, curta e organizada. Não revele o raciocínio.)
+
+"""
